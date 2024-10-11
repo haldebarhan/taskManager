@@ -1,0 +1,4 @@
+30
+SimpleTask: Shoppinng, buy new clothes, 10, true
+DailyTask: Prayer, Leading family prayer, 20
+CheckListTask: Cleaning, cleaning and tidying the house, 5, 20, 3, 0
